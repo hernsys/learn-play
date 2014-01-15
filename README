@@ -2,3 +2,9 @@ This is your new Play application
 =====================================
 
 This file will be packaged with your application, when using `play dist`.
+
+How to install Play Framework in Ubuntu:
+http://www.red-geek.com.ar/todo-java/instalar-el-framework-play-en-ubuntu.php
+
+How to create a first project with Play Framework:
+http://www.red-geek.com.ar/todo-java/crear-un-proyecto-en-play-framework.php
