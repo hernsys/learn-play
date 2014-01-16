@@ -15,7 +15,7 @@ public class Task extends Model {
 	public Long id;
 
 	@Required
-	public String label;
+	public String description;
 
 
 

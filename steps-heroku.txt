@@ -1,0 +1,51 @@
+Heroku
+
+1) cd ~/learn-play
+
+2) heroku login
+
+3)heroku create
+Creating limitless-ravine-6109... done, stack is cedar
+http://limitless-ravine-6109.herokuapp.com/ | git@heroku.com:limitless-ravine-6109.git
+Git remote heroku added
+
+4) git remote -v
+heroku	git@heroku.com:limitless-ravine-6109.git (fetch)
+heroku	git@heroku.com:limitless-ravine-6109.git (push)
+origin	https://github.com/hernsys/learn-play.git (fetch)
+origin	https://github.com/hernsys/learn-play.git (push)
+
+5)heroku git:remote -a falling-wind-1624
+
+6)git push heroku master
+The authenticity of host 'heroku.com (50.19.85.132)' can't be established.
+RSA key fingerprint is 8b:48:5e:67:0e:c9:16:47:32:f2:87:0c:1f:c8:60:ad.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'heroku.com,50.19.85.132' (RSA) to the list of known hosts.
+Initializing repository, done.
+Counting objects: 119, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (83/83), done.
+Writing objects: 100% (119/119), 93.91 KiB, done.
+Total 119 (delta 23), reused 0 (delta 0)
+
+...
+
+-----> Compressing... done, 84.3MB
+-----> Launching... done, v6
+       http://limitless-ravine-6109.herokuapp.com deployed to Heroku
+
+To git@heroku.com:limitless-ravine-6109.git
+ * [new branch]      master -> master
+
+
+7)git push heroku master:master -> the base example is: git push heroku yourbranch:master
+Warning: Permanently added the RSA host key for IP address '50.19.85.154' to the list of known hosts.
+Fetching repository, done.
+Everything up-to-date
+
+
+8) is all is good in the next url must be our project 
+http://limitless-ravine-6109.herokuapp.com/
+
+

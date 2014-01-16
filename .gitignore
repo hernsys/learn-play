@@ -1,0 +1,34 @@
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+/.idea
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+
+/target
+/local
+/bin
+
+# Eclipse, Netbeans and IntelliJ files
+/.*
+/**/.*
+!.gitignore
+/nbproject
+/*.ipr
+/*.iws
+/*.iml
+
+# GwtTest
+gwt-unitCache
+www-test
+
+# Repository wide ignore mac DS_Store files
+.DS_Store
