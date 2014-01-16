@@ -1,6 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/opt/play-2.2.1/learn-play/conf/evolutions,/opt/play-2.2.1/learn-play/target/scala-2.10/classes/evolutions)[0m
-[0m[[0mdebug[0m] [0m	(/opt/play-2.2.1/learn-play/conf/routes,/opt/play-2.2.1/learn-play/target/scala-2.10/classes/routes)[0m
-[0m[[0mdebug[0m] [0m	(/opt/play-2.2.1/learn-play/conf/application.conf,/opt/play-2.2.1/learn-play/target/scala-2.10/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/opt/play-2.2.1/learn-play/conf/evolutions/default,/opt/play-2.2.1/learn-play/target/scala-2.10/classes/evolutions/default)[0m
-[0m[[0mdebug[0m] [0m	(/opt/play-2.2.1/learn-play/conf/evolutions/default/1.sql,/opt/play-2.2.1/learn-play/target/scala-2.10/classes/evolutions/default/1.sql)[0m
