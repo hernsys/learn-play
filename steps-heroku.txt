@@ -45,7 +45,7 @@ Fetching repository, done.
 Everything up-to-date
 
 
-8) is all is good in the next url must be our project 
+8) if all the steps was successful, at the following url should be our example 
 http://limitless-ravine-6109.herokuapp.com/
 
 
