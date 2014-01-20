@@ -8,3 +8,8 @@ http://www.red-geek.com.ar/todo-java/instalar-el-framework-play-en-ubuntu.php
 
 How to create a first project with Play Framework:
 http://www.red-geek.com.ar/todo-java/crear-un-proyecto-en-play-framework.php
+
+In this link you can see this simple example in the cloud
+http://limitless-ravine-6109.herokuapp.com
+If you see an error in this link it is because this example was deployed in a free account in Heroku, 
+you could try later
